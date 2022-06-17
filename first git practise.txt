@@ -1,0 +1,7 @@
+
+                 "My First Repository!"
+
+My Name is Abdul Rehman .I am the student of BS Computer
+Science.This is my first practise aboutrepositry of Git HUb
+& i am very happy to make this.
+
